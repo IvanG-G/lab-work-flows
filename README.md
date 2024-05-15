@@ -31,3 +31,17 @@ Cambio a la rama feature-y y se añade un cambio, posteriormente se realiza el m
 
 Se cambia a la rama feature-x y se realiza un rebase desde develop a la rama feature-x
 <img width="1080" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/68f59705-4010-4700-b478-471cd169b049">
+
+
+#3 - Pull Request
+
+Se crea una nueva rama en base a dev, se crea un nuevo archivo y se realiza el commit y push para proceder al PR 
+<img width="1080" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/ad5d6128-41b6-49f7-8075-7564ba09a4bf">
+
+Se crea el PR y se aprueba por compañeros 
+<img width="1701" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/38dd3762-cecf-4b0e-be4d-7162710af3cc">
+
+Se confirma el merge 
+<img width="1701" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/9e9e1d94-f9a9-4c29-8a08-fbbe74147d7e">
+
+
