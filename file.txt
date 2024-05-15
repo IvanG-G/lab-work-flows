@@ -2,5 +2,6 @@ Updated other text
 
 Adding more text
 
+Almost last line here
 
-Last line here
+Now this is the real last one
