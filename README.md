@@ -1,6 +1,6 @@
 # lab-work-flows
 
-
+#1 - Branch Strategy simulator
 Primeros commits realizados, añadiendo un archivo file.txt y editandolo con diferentes commits
 ![image](https://github.com/IvanG-G/lab-work-flows/assets/138608967/6857c941-fbb5-487e-8aa6-eaea6bb1c359)
 
@@ -21,3 +21,13 @@ feature-y
 
 Se hace el merge a develop y se resuelven conflictos
 <img width="1082" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/91806f92-4bd7-4d6f-8ad3-df1aceef9d89">
+
+Se integran los cambios a main
+<img width="1081" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/8da8f6e9-e17d-47da-957d-9b747ec5b9af">
+
+#2 - Conflict resolution and merging
+Cambio a la rama feature-y y se añade un cambio, posteriormente se realiza el merge a develop
+<img width="1081" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/9a7768fd-40af-48ac-bb7a-84832b9e89ab">
+
+Se cambia a la rama feature-x y se realiza un rebase desde develop a la rama feature-x
+<img width="1080" alt="image" src="https://github.com/IvanG-G/lab-work-flows/assets/138608967/68f59705-4010-4700-b478-471cd169b049">
