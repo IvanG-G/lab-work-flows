@@ -1,0 +1,6 @@
+In this exercise, participants will create pull requests to integrate changes from their feature branches into the main branch. They will then conduct code reviews, applying the best practices covered in the lessons:
+
+Create a pull request and assign it to another lab participant.
+Review another participant’s pull request, providing constructive feedback and requesting changes if necessary.
+Discuss the effectiveness of the communication and feedback techniques used during the reviews.
+
